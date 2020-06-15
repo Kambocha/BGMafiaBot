@@ -1,0 +1,14 @@
+C:\Users\kambo\source\repos\BGMAFIARequests\BGMAFIARequests\bin\Release\netcoreapp2.2\win10-x64\hostpolicy.dll
+C:\Users\kambo\source\repos\BGMAFIARequests\BGMAFIARequests\bin\Release\netcoreapp2.2\win10-x64\hostfxr.dll
+C:\Users\kambo\source\repos\BGMAFIARequests\BGMAFIARequests\bin\Release\netcoreapp2.2\win10-x64\BGMAFIARequests.exe
+C:\Users\kambo\source\repos\BGMAFIARequests\BGMAFIARequests\bin\Release\netcoreapp2.2\win10-x64\BGMAFIARequests.deps.json
+C:\Users\kambo\source\repos\BGMAFIARequests\BGMAFIARequests\bin\Release\netcoreapp2.2\win10-x64\BGMAFIARequests.runtimeconfig.json
+C:\Users\kambo\source\repos\BGMAFIARequests\BGMAFIARequests\bin\Release\netcoreapp2.2\win10-x64\BGMAFIARequests.runtimeconfig.dev.json
+C:\Users\kambo\source\repos\BGMAFIARequests\BGMAFIARequests\bin\Release\netcoreapp2.2\win10-x64\BGMAFIARequests.dll
+C:\Users\kambo\source\repos\BGMAFIARequests\BGMAFIARequests\bin\Release\netcoreapp2.2\win10-x64\BGMAFIARequests.pdb
+C:\Users\kambo\source\repos\BGMAFIARequests\BGMAFIARequests\obj\Release\netcoreapp2.2\win10-x64\BGMAFIARequests.csprojAssemblyReference.cache
+C:\Users\kambo\source\repos\BGMAFIARequests\BGMAFIARequests\obj\Release\netcoreapp2.2\win10-x64\BGMAFIARequests.csproj.CoreCompileInputs.cache
+C:\Users\kambo\source\repos\BGMAFIARequests\BGMAFIARequests\obj\Release\netcoreapp2.2\win10-x64\BGMAFIARequests.AssemblyInfoInputs.cache
+C:\Users\kambo\source\repos\BGMAFIARequests\BGMAFIARequests\obj\Release\netcoreapp2.2\win10-x64\BGMAFIARequests.AssemblyInfo.cs
+C:\Users\kambo\source\repos\BGMAFIARequests\BGMAFIARequests\obj\Release\netcoreapp2.2\win10-x64\BGMAFIARequests.dll
+C:\Users\kambo\source\repos\BGMAFIARequests\BGMAFIARequests\obj\Release\netcoreapp2.2\win10-x64\BGMAFIARequests.pdb
