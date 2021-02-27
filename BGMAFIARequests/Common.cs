@@ -27,7 +27,7 @@ namespace BGMAFIARequests
                     new KeyValuePair<string, string>("z", "Vro"),
                     new KeyValuePair<string, string>("new_ws", "1"),
                     new KeyValuePair<string, string>("login[usr]", "niko50cent"),
-                    new KeyValuePair<string, string>("login[pwd]", "niko9999"),
+                    new KeyValuePair<string, string>("login[pwd]", "test"),
                     new KeyValuePair<string, string>("login[submit]", "Логин"),
                 });
 
@@ -65,7 +65,7 @@ namespace BGMAFIARequests
                     new KeyValuePair<string, string>("z", "Vro"),
                     new KeyValuePair<string, string>("new_ws", "1"),
                     new KeyValuePair<string, string>("login[usr]", "niko50cent"),
-                    new KeyValuePair<string, string>("login[pwd]", "niko9999"),
+                    new KeyValuePair<string, string>("login[pwd]", "test"),
                     new KeyValuePair<string, string>("login[submit]", "Логин"),
                 });
 
